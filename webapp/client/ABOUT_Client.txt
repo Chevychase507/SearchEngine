@@ -1,0 +1,13 @@
+
+ABOUT Search Engine -  Group J Search Engine
+
+Thanks a lot for using our Search Engine. 
+
+A special thanks to -A pen by Morgen- from the website following the link: 
+
+https://codepen.io/mnimmz/pen/yJwBYp/
+
+Without this contribution the website would not have been half as nice!
+
+//Anders Joensen, Mathias Koch Stræde & Anders Lauridsen - December 17. 2017. 
+
